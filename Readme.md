@@ -1,0 +1,1 @@
+In this project, using the the "Credit-score classifiacation" from kaggle, I will build a credit score classis-fication using Machine Learning tools. This is the first project in my portfolio. All the steps wi be documented and explain in rder m-for any reader to understand what's going on in the notebook.
