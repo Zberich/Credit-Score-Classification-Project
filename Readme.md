@@ -21,6 +21,7 @@ Results
 Requirements
 Python 3.x
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
-Acknowledgments
+
+## Acknowledgments
 The dataset used in this project is sourced from Kaggle's Credit Score Classification Dataset, and the project is for educational and demonstrative purposes.
 
